@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 😄 Javscript, React, Redux, Mongo, Node
 - 🌱 I’m currently learning Data visualization
 - 💬 Ask me about Anything
-- 📫 How to reach me: https://twitter.com/KayratWestside
+- 📫 How to reach me: https://twitter.com/KayratWestside https://www.linkedin.com/in/kayrat-kaipov24/
 
