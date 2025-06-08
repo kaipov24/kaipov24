@@ -22,8 +22,10 @@ Outside of work, I am an Arsenal fan🔴⚪, I play video games, and I love ches
 
 ## 📫 How to reach me
 
-**[![Linkedin: Kairat Kaipov](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kairat-kaipov24)](https://www.linkedin.com/in/kairat-kaipov24/)
-[![Telegram: Kairat Kaipov](https://img.shields.io/badge/?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/kairat_kaipov)](https://t.me/kairat_kaipov)**
+[![LinkedIn: Kairat Kaipov](https://img.shields.io/badge/LinkedIn-Kairat%20Kaipov-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kairat-kaipov24/)
+
+[![Telegram: kairat_kaipov](https://img.shields.io/badge/Telegram-kairat__kaipov-2CA5E0?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kairat_kaipov)
+
 
 
 <!--
