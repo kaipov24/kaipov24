@@ -10,7 +10,7 @@ Outside of work, I am an Arsenal fan🔴⚪, I play video games, and I love ches
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div>
 
 <img alt="Go" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" />
 
